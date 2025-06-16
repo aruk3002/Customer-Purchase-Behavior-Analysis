@@ -1,4 +1,5 @@
 # 🛍️ Customer Purchase Behavior Analysis
+Project Link - [Customer Purchase Behaviour Analysis colab link](https://colab.research.google.com/drive/1NUgK8gg7CM8wsRayr-YgSVZ04cxCWjds?usp=sharing) (If the colab file in not rendering on the Github)
 
 This project explores and analyzes customer demographics, income, and behavioral patterns to gain actionable insights into their product spending habits and responses to marketing campaigns. The goal is to help businesses improve targeting strategies and enhance customer engagement.
 
